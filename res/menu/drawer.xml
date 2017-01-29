@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/food_bot"
+            android:title="Food bot"/>
+        <item
+            android:id="@+id/search_image"
+            android:title="Search Recipe by Image"/>
+        <item
+            android:id="@+id/location"
+            android:title="Search food by Location"/>
+
+        <item
+            android:id="@+id/recipe"
+            android:title="Search Recipe"/>
+        <item
+            android:id="@+id/nutrients"
+            android:title="Calculate Nutrients"/>
+
+    </group>
+
+    <group android:checkableBehavior="none">
+
+        <item android:id="@+id/support_us"
+            android:title="Support Us">
+            <menu>
+                <item android:id="@+id/about_us"
+                    android:title="About us" />
+
+                <item android:id="@+id/send_feedback"
+                    android:title="Send Feedback" />
+
+            </menu>
+        </item>
+    </group>
+</menu>

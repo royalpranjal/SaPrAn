@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/button_choose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#808080"
+            android:text="Browse Image"
+            android:textColor="#fff"
+            android:layout_gravity="center_horizontal"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="5dp"
+            android:layout_height="5dp" />
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/button_capture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#808080"
+            android:text="Capture Image"
+            android:textColor="#fff"
+            android:layout_gravity="center_horizontal"
+            android:padding="10dp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/border"
+        android:layout_gravity="center_horizontal"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"/>
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:id="@+id/imageProgressBar"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="100dp"/>
+    <Button
+        android:id="@+id/button_upload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F88017"
+        android:text="upload"
+        android:textColor="#fff"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="bottom"
+        />
+</LinearLayout>
