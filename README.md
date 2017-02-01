@@ -4,11 +4,15 @@ SaPrAn is an Android App developed as a part of the **Microsoft** **Hackathon** 
 <br/>
 
 ![App Intro](https://github.com/royalpranjal/SaPrAn/blob/master/intro1.png "App Intro")
+<br/>
 ![App Intro](https://github.com/royalpranjal/SaPrAn/blob/master/into2.png "App Intro")
+<br/>
 ![Home](https://github.com/royalpranjal/SaPrAn/blob/master/home.png "App Home")
+<br/>
 ![Menu](https://github.com/royalpranjal/SaPrAn/blob/master/menu.png "App Menu")
+<br/>
 ![Food Bot](https://github.com/royalpranjal/SaPrAn/blob/master/bot.png "Food bot")
-
+<br/>
 <br/>
 ## Installation
 The repositry contains an APK of the app, whilst also containing the sample code. You can access the code via 2 ways :- <br/> 
