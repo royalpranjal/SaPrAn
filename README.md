@@ -15,6 +15,7 @@ SaPrAn is an Android App developed as a part of the **Microsoft** **Hackathon** 
 <br/>
 
 <br/>
+
 ## Installation
 The repositry contains an APK of the app, whilst also containing the sample code. You can access the code via 2 ways :- <br/> 
 
@@ -35,16 +36,10 @@ The app has the following features :- <br/>
 
 ## Libraries used
 
-* [App Intro](https://github.com/apl-devs/AppIntro "App Intro") 
-</br>
-* [Retrofit 1.9](https://square.github.io/retrofit/ "Retrofit 1.9")
-</br>
-* [Picasso](http://square.github.io/picasso/ "Picasso")
-</br>
-* [Finest Web View](https://android-arsenal.com/details/1/2861 "Finest Web View")
-</br>
-* [Android Image Slider](https://github.com/daimajia/AndroidImageSlider "Android Image Slider")
-</br>
-* [Microsoft Azure Blob Service REST API ](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/blob-service-rest-api "Microsoft Azure Blob Service REST API ")
-</br>
+* [App Intro](https://github.com/apl-devs/AppIntro "App Intro")  </br>
+* [Retrofit 1.9](https://square.github.io/retrofit/ "Retrofit 1.9") </br>
+* [Picasso](http://square.github.io/picasso/ "Picasso") . </br>
+* [Finest Web View](https://android-arsenal.com/details/1/2861 "Finest Web View") </br>
+* [Android Image Slider](https://github.com/daimajia/AndroidImageSlider "Android Image Slider") </br>
+* [Microsoft Azure Blob Service REST API ](https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/blob-service-rest-api "Microsoft Azure Blob Service REST API ") </br>
 * [Microsoft Cognitive Service Computer Vision API](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api "Microsoft Cognitive Service Computer Vision API")
